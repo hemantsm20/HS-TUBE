@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HS-tube/static/css/main.7064deb2.css",
+    "main.js": "/HS-tube/static/js/main.c2b79409.js",
+    "index.html": "/HS-tube/index.html",
+    "main.7064deb2.css.map": "/HS-tube/static/css/main.7064deb2.css.map",
+    "main.c2b79409.js.map": "/HS-tube/static/js/main.c2b79409.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.c2b79409.js"
+  ]
+}
